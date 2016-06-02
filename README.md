@@ -1,2 +1,2 @@
 # hello-world
-Making some changse to this branch
+Making some changes to this branch
